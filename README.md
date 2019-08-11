@@ -10,5 +10,5 @@ __Follow our instagram__ for updates [@CentralCoastWoodCraft](https://www.instag
 
 
 ### Place an Order
-Currently the only way to place an order is through email
-Click this link to [place and order](mailto:centralcoastwoodcraft.com?subject=[CentralCoastWoodCraft Order])
+[Place an order](mailto:centralcoastwoodcraft.com?subject=[CentralCoastWoodCraft Order]) via Email
+ 

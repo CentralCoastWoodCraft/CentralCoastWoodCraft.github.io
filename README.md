@@ -3,7 +3,7 @@
 __Follow our instagram__ for updates [@CentralCoastWoodCraft](https://www.instagram.com/centralcoastwoodcraft/) and view my latest artwork and creations
 
 
-![Sun001](\Sun001.png)
+![Sun001](CentralCoastWoodCraft\Sun001.png)
 - $250
 - California Central Coast Local Manzanita Core and Driftwood Rays
 - Beautifully Colored Acrylic

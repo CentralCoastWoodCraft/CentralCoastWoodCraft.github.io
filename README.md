@@ -11,4 +11,3 @@ __Follow our instagram__ for updates [@CentralCoastWoodCraft](https://www.instag
 
 ### Place an Order
 [Place an order](mailto:centralcoastwoodcraft.com?subject=[CentralCoastWoodCraft Order]) via Email
- 
